@@ -16,16 +16,9 @@ Clone repo and open "program2b.sln" file with visual studio. Build and run.
 Controls
 --------
 
-w, a, s, d : move
-i, k : tilt camera up and down
-e, r : move sun
-f, v : increase/decrease world frequency
-g, b : increase/decrease world amplitude
-h, n : increment/decrement world octaves
-
-w, a, s, d : move
-i, k : tilt camera up and down
-e, r : move sun
-f, v : increase/decrease world frequency
-g, b : increase/decrease world amplitude
-h, n : increment/decrement world octaves
+w, a, s, d : move  
+i, k : tilt camera up and down  
+e, r : move sun  
+f, v : increase/decrease world frequency  
+g, b : increase/decrease world amplitude  
+h, n : increment/decrement world octaves  
