@@ -1,7 +1,7 @@
 Mountain Landscape Procedural Generation Simulator
 ===========================
 
-This project demonstrates a world with procedural generation, where the user can change procedural factors (frequency, amplitude, and octaves) in real time using the keyboard.
+This project demonstrates a world with procedural generation, where the user can change procedural factors (frequency, amplitude, and octaves) in real time using the keyboard. 
 
 The world is a mountain landscape, with grass, trees, cliffs, and an movable sun.
 ![](screenshots/world.png)
