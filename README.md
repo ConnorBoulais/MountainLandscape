@@ -9,8 +9,8 @@ The world is a mountain landscape, with grass, trees, cliffs, and an movable sun
 Build Instructions
 ------------
 
-Download visual studio: https://visualstudio.microsoft.com/
-Download the OpenGL directory from my repository 'OpenGL-Dependency' and put it on your C: drive
+Download visual studio: https://visualstudio.microsoft.com/  
+Download the OpenGL directory from my repository 'OpenGL-Dependency' and put it on your C: drive  
 Clone repo and open "program2b.sln" file with visual studio. Build and run.
 
 Controls
