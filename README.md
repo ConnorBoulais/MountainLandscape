@@ -6,7 +6,7 @@ This project demonstrates a world with procedural generation, where the user can
 The world is a mountain landscape, with grass, trees, cliffs, and an movable sun.
 ![](screenshots/world.png)
 
-Build Instructions
+Build Instructions (Windows)
 ------------
 
 Download visual studio: https://visualstudio.microsoft.com/  
