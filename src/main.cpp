@@ -353,11 +353,6 @@ public:
 	}
 	void init_sun()
 	{
-		/*string resourceDirectory = "../resources";
-		shape_sun = make_shared<Shape>();
-		shape_sun->loadMesh(resourceDirectory + "/sphere.obj");
-		shape_sun->resize();
-		shape_sun->init();*/
 
 		glGenVertexArrays(1, &VAO_SUN_ID);
 		glBindVertexArray(VAO_SUN_ID);
