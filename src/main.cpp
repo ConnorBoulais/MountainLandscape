@@ -341,15 +341,6 @@ public:
 		shape_tree->loadMesh(resourceDirectory + "/tree/tree.obj");
 		shape_tree->resize();
 		shape_tree->init();
-
-		/*std::vector<glm::vec4> positions;
-		for (int x = -5; x <= 5; x++) {
-			for (int z = -5; z <= 5; z++) {
-				glm::vec4 centerpos = vec4(10 * x, -2.3f, 10 * z,0);
-				positions.push_back(centerpos);
-			}
-		}
-		shape->init_instance_buffer(positions, treeprog);*/
 	}
 
 	void init_sky()
