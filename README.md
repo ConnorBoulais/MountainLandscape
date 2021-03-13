@@ -10,7 +10,7 @@ Build Instructions (Windows)
 ------------
 
 Download visual studio: https://visualstudio.microsoft.com/  
-Download the OpenGL directory from my repository 'OpenGL-Dependency' and put it on your C: drive  
+Download OpenGL, GLM, and GLFW. I have a version of this dependency in my repository called 'OpenGL-Dependency' which can be used if need be
 Clone repo and open "program2b.sln" file with visual studio. Build and run.
 
 Controls
